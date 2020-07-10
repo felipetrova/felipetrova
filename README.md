@@ -6,6 +6,7 @@
 
 <!--
 **felipetrova/felipetrova** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+-->
 
 💻 Front-end developer at [Stoom](https://stoom.com.br/) <br>
 🏡 Brazilian, living in Indaiatuba/SP
@@ -18,4 +19,3 @@
 🚀 https://felipetrova.netlify.app/ <br>
 
 Cheers!
--->
