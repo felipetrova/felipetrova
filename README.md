@@ -13,9 +13,9 @@
 
 ### Find me around the web 🌎
 
-📷 https://www.instagram.com/felipetrova/ <br>
-🐦 https://twitter.com/felipetrova/ <br>
-💼 https://www.linkedin.com/in/felipetrova/ <br>
-🚀 https://felipetrova.netlify.app/ <br>
+📷  https://www.instagram.com/felipetrova/ <br>
+🐦  https://twitter.com/felipetrova/ <br>
+💼  https://www.linkedin.com/in/felipetrova/ <br>
+🚀  https://felipetrova.netlify.app/ <br>
 
 Cheers!
