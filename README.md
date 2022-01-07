@@ -8,8 +8,8 @@
 **felipetrova/felipetrova** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
-💻 Front-end developer at [Stoom](https://stoom.com.br/) <br>
-🏡 Brazilian, living in Indaiatuba/SP
+💻 Front-end developer at [onebrain](https://www.onebrain.com.br/) and [iFood](https://www.ifood.com.br/). <br>
+🏡 Brazilian, living in Indaiatuba/SP.
 
 ### Find me around the web 🌎
 
